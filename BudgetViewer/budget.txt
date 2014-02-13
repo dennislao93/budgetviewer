@@ -1,0 +1,11 @@
+Total earnings:0.0
+Total spendings:0.0
+Color unused:255-240-0
+:CATEGORIES
+Uncategorized:Unc,0.0,gray,last-edit: n/a
+:POSSIBLE SPENDINGS
+:FORECAST CONFIG
+Go forward:6-month
+Factor in current spendings and earnings:true
+Earnings per unit time:0.0,1-month
+Uncategorized:0.0,1-month
